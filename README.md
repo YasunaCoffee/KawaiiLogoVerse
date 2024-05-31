@@ -1,0 +1,2 @@
+# KawaiiLogoVerse
+AIVTuberとローカルLLMを盛り上げるためのカワイイロゴを創ります
